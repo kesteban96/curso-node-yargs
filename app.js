@@ -68,4 +68,6 @@ switch (command) {
  * 1. git init
  * 2. git status
  * 3. agregar al gitignore lo que no quiero subir a git
+ * 4. git add .
+ * 5. git commit -m
  */
